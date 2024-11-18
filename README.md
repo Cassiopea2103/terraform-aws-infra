@@ -267,8 +267,6 @@ On our AWS console , we navigate respsectively to sections for VPC , Subnets & E
 ![15 automated-deployment-ec2](https://github.com/user-attachments/assets/dcab2e07-1e74-40db-8778-1152a265bef2)
 
   
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [Terraform]: https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white 
